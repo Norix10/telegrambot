@@ -3,9 +3,10 @@
 }
 
 body{
-
+    background-color: black;
 }
 
 p{
     font-weight: bold;
+    color: white;
 }
